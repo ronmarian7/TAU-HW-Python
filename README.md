@@ -1,2 +1,2 @@
 # TAU-HW-Python
-Python project given in python course at TAU.
+Python projects given in python course at TAU.
